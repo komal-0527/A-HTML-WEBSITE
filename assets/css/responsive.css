@@ -60,7 +60,7 @@
   /* product */
   .products-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
   /* blog */
    .blog-grid {
@@ -121,7 +121,7 @@
     grid-template-columns: repeat(1, 1fr);
   }
   .products-grid {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   /* news letter */
   .newsletter-content h2 {
