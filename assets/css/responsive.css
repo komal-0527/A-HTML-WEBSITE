@@ -47,6 +47,10 @@
   .overlay {
     display: block;
   }
+  /* hero */
+  .hero-content {
+  padding: 20px;
+}
   /* featured section */
   .featured-grid {
     display: grid;
@@ -56,7 +60,7 @@
   /* product */
   .products-grid {
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   /* blog */
    .blog-grid {
